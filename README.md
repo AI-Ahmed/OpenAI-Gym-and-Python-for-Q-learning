@@ -13,9 +13,7 @@ we'll be using Python and OpenAI Gym to develop our reinforcement learning algor
 
 Gym has a ton of environments ranging from simple text based games to Atari games like Breakout and Space Invaders. The library is intuitive to use and simple to install. Just run pip install gym, and you're good to go! [The link to Gym's installation instructions, requirements, and documentation](https://gym.openai.com/docs/) is included in the description. Go ahead and get that installed now because we'll need it in just a moment. 
 
-<center>
-<img src='https://deeplizard.com/assets/svg/ac9a374b.svg'/>
-</center>
+<p align="center"><img src='https://deeplizard.com/assets/svg/ac9a374b.svg'/></p>
 
  We'll be making use of Gym to provide us with an environment for a simple game called Frozen Lake. We'll then train an agent to play the game using Q-learning, and we'll get a playback of how the agent does after being trained.
 
